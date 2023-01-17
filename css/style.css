@@ -59,8 +59,8 @@ section#redes-socias img:hover{
     box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.548);
     transition: transform 0.5s, border 0.5s;
 }
-@media (max-width: 999px){
+@media (max-width: 900px){
     section#celular{
-        margin-right: 20px;
+        padding-right: 30px;
     }
 }
